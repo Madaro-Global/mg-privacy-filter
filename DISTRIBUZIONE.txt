@@ -1,0 +1,11 @@
+MG PRIVACY FILTER — DISTRIBUZIONE GRATUITA
+
+MG Privacy Filter di Madaro Global è disponibile per l’uso gratuito, senza abbonamento o account per l’elaborazione locale dei testi. È consentito condividere gratuitamente copie complete e non modificate del pacchetto, conservando questa informativa, i crediti e le licenze incluse.
+
+This is a Madaro Global (R)Technology, all rights reserved | www.madaroglobal.com | info@madaroglobal.com | P.IVA IT05321890757.
+
+Questo avviso riguarda i contributi Madaro Global. Non modifica o limita le licenze e i diritti dei componenti, dei modelli e dei dati di terze parti. In particolare, restano consentite la modifica e sostituzione delle librerie LGPL e il reverse engineering necessario al debugging di tali modifiche. I termini applicabili ai componenti sono inclusi nella cartella Licenze della pagina Privacy e disclosures. Le librerie Qt/PySide6 sono collegate dinamicamente; i riferimenti ai sorgenti sono in Licenze/Qt-SOURCES.txt.
+
+Il riconoscimento può contenere errori o omissioni. Controlla sempre il risultato prima di divulgarlo. Il software non garantisce anonimato, conformità normativa o idoneità del documento alla condivisione. La legenda e il documento Word che la include contengono valori originali: custodiscili e condividili soltanto con destinatari autorizzati.
+
+Informazioni: info@madaroglobal.com — https://www.madaroglobal.com
